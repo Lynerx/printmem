@@ -10,8 +10,8 @@
 
     <ImageView
         android:id="@+id/login_applogo"
-        android:layout_width="300dp"
-        android:layout_height="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
         android:src="@drawable/logo"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"
@@ -42,7 +42,7 @@
         android:padding="20dp"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
-        android:layout_marginTop="6dp"
+        android:layout_marginTop="12dp"
         android:hint="Password"
         android:inputType="textPassword"
         android:textColorHint="@color/white"

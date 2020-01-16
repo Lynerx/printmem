@@ -10,8 +10,8 @@
 
     <ImageView
         android:id="@+id/app_logo"
-        android:layout_width="300dp"
-        android:layout_height="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="60dp"
         android:src="@drawable/logo"
@@ -24,7 +24,8 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentTop="true"
         android:layout_marginEnd="88dp"
-        android:layout_marginTop="140dp"
+        android:layout_below="@+id/app_logo"
+        android:layout_marginTop="340dp"
         android:text="Where technology and craftmanship meet"
         android:textAlignment="center"
         android:textColor="@color/white"
@@ -38,7 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:layout_marginBottom="10dp"
+        android:layout_marginBottom="20dp"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
         android:background="@drawable/buttons"
@@ -47,6 +48,7 @@
         android:textSize="18sp"
         android:text="Already have an Account? Login"
         android:textColor="@color/white"
+        android:layout_marginTop="10dp"
         />
 
     <Button
@@ -63,6 +65,7 @@
         android:textSize="18sp"
         android:text="Join Now"
         android:textColor="@color/white"
+
         />
 
 
