@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19242619664",
+    "firebase_url": "https://printmem-eff20.firebaseio.com",
+    "project_id": "printmem-eff20",
+    "storage_bucket": "printmem-eff20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19242619664:android:b987c2583b349ebdf5cb95",
+        "android_client_info": {
+          "package_name": "com.example.printmemv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19242619664-5bm0nlt5eti89i7jsl09i1tqt58h71rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.printmemv2",
+            "certificate_hash": "8e1cbe7b9386e006dd5b02f3af3c91fe426d289a"
+          }
+        },
+        {
+          "client_id": "19242619664-mbcc7s1vb8d27pb4o1naocsaqlobtg2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCW4EwJ8gqXFy4buG-SoCgOfZ_tM5esrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19242619664-mbcc7s1vb8d27pb4o1naocsaqlobtg2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
